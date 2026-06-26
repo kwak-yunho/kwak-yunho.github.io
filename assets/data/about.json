@@ -1,47 +1,42 @@
 {
-    "internationalizations": [
-        {
-            "language": "pt",
-            "description": "Minha caminhada como <i>programador</i> teve início aos nove anos de idade quando me apaixonei pelo <i>Logo</i>, uma linguagem de programação educacional usada para cativar crianças nas maravilhosas terras da <i>Programação</i>. Costumava passar horas seguidas tentando criar figuras e animações, usando matemática e geometria. Naquela época, eu simplesmente não conhecia os desafios emocionantes que ainda estavam por vir.<br><br>Alguns anos depois, consegui um estágio como <i>Webmaster</i>, desde então, nunca mais parei, sendo mais de uma década, onde venho tendo a chance de trabalhar com pessoas maravilhosas, aprendendo todos os dias, viajando pelo mundo e, principalmente, sempre fazendo grandes amizades.<br><br>Tive experiência como empreendedor, quando um amigo apresentou-me <i>Magento</i>, um framework de comércio eletrônico extremamente popular. Depois de fazer vários cursos e muita prática, consegui contratos com agências de São Paulo e Rio de Janeiro, Brasil. Essa experiência de empreendedorismo me deu a chance de ver o outro lado da moeda, o que contribuiu para expandir um pouco mais minha consciência como colaborador.<br><br>Atualmente, continuo buscando novas habilidades, aprendendo e compartilhando meu humilde conhecimento, tanto quanto possível."
-        },
-        {
-            "language": "en",
-            "description": "My path as a <i>programmer</i> has started at nineish years old, when I've fallen in love with <i>Logo</i>, an educational programming language used to captivate kids in the wonderful lands of <i>Programming</i>. I used to spend hours in a row trying to build figures and animations, using math and geometry. At that time, I just did not know the exciting challenges that were yet to come.<br><br>A few years later, I got an internship as a <i>Webmaster</i>, since then, I have never stopped. It has been more than a decade, where I'm having the chance to work with marvelous people, learning every day, traveling the world, and mainly, always making great friendships.<br><br>I had an entrepreneurship experience, when a friend of mine presented me <i>Magento</i>, an extremely popular e-commerce framework. After doing several courses and a lot of practice, I got contracts with agencies from São Paulo and Rio de Janeiro, Brazil. This entrepreneurship experience gave me the chance to see the other side of the coin, which contributed to sort of expand a bit more my consciousness as an employee.<br><br>Nowadays, I keep seeking new skills, learning and sharing my humble knowledge as much as possible."
-        }
-    ],
-    "medias": [        
-        {
-            "icon": "linkedin",
-            "title": "LinkedIn",
-            "http": "https://www.linkedin.com/in/guilhermeborgesbastos/"
-        },
-        {
-            "icon": "github",
-            "title": "GitHub",
-            "http": "https://github.com/guilhermeborgesbastos"
-        },
-        {
-            "icon": "facebook",
-            "title": "Facebook",
-            "http": "https://www.facebook.com/guilherme.borgesbastos"
-        }
-    ],
-    "hobbies": [        
-        {
-            "icon": "biking",
-            "title": "Cycling"
-        },
-        {
-            "icon": "dumbbell",
-            "title": "Gym"
-        },
-        {
-            "icon": "suitcase-rolling",
-            "title": "Travel"
-        },
-        {
-            "icon": "book",
-            "title": "Read"
-        }
-    ]
+  "internationalizations": [
+    {
+      "language": "en",
+      "description": "I am a Master's student in <i>International Agricultural Technology</i> at Seoul National University, with a Double Major in <i>Applied Data Science</i>. My research focuses on <i>agricultural economics</i>, consumer behavior, and international development, particularly in Southeast Asia and beyond.<br><br>My journey into research began during my undergraduate studies in <i>Russian</i> at Hankuk University of Foreign Studies. After serving as a <i>First Lieutenant</i> in the Republic of Korea Army, I pursued graduate studies and have since been deeply engaged in applied economic research — analyzing consumer <i>willingness-to-pay</i>, conducting large-scale field surveys, and evaluating the feasibility of agricultural programs in developing countries.<br><br>I have had the opportunity to collaborate with institutions such as the <i>Vietnam National University of Agriculture</i>, <i>KOICA</i>, and the <i>Rural Development Administration</i>, working on projects spanning school milk programs in Laos, gene-edited food markets in Vietnam, and IRG seed production feasibility in Korea.<br><br>I am passionate about bridging the gap between academic research and real-world policy, and I am always eager to learn, collaborate, and contribute to meaningful impact."
+    },
+    {
+      "language": "pt",
+      "description": "Sou estudante de Mestrado em <i>Tecnologia Agrícola Internacional</i> na Universidade Nacional de Seul, com Dupla Especialização em <i>Ciência de Dados Aplicada</i>. Minha pesquisa se concentra em <i>economia agrícola</i>, comportamento do consumidor e desenvolvimento internacional, particularmente no Sudeste Asiático.<br><br>Minha jornada na pesquisa começou durante minha graduação em <i>Russo</i> na Universidade Hankuk de Estudos Estrangeiros. Após servir como <i>Primeiro-Tenente</i> no Exército da República da Coreia, ingressei na pós-graduação e tenho me dedicado a pesquisas econômicas aplicadas — analisando a <i>disposição a pagar</i> dos consumidores, realizando pesquisas de campo em larga escala e avaliando a viabilidade de programas agrícolas em países em desenvolvimento."
+    }
+  ],
+  "medias": [
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "http": "https://www.linkedin.com/in/kwak-yunho/"
+    },
+    {
+      "icon": "github",
+      "title": "GitHub",
+      "http": "https://github.com/kwak-yunho"
+    }
+  ],
+  "hobbies": [
+    {
+      "icon": "book",
+      "title": "Research"
+    },
+    {
+      "icon": "globe",
+      "title": "Travel"
+    },
+    {
+      "icon": "dumbbell",
+      "title": "Fitness"
+    },
+    {
+      "icon": "language",
+      "title": "Languages"
+    }
+  ]
 }
